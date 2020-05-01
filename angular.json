@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AmlinTask"
+    }
+  },
+  "defaultProject": "AmlinTask",
+  "cli": {
+    "analytics": "79f66cb6-db3a-4db5-9a6f-0b7ba139377a"
+  }
 }

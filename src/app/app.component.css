@@ -1,0 +1,19 @@
+a{
+    cursor: pointer;
+    color: white !important;
+}
+
+.router-link-active{
+  font-size: 21px !important ;
+  background-color:rgb(0, 100, 220);;
+}
+
+.navbar-custom{
+  font-weight: bold;
+  font-size: 20px;
+  color: white !important;
+}
+
+.navItemCustom{
+  margin-left:30vw;
+}

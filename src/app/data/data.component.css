@@ -1,0 +1,16 @@
+.row{
+  margin: 4vh 0px  !important;
+}
+.detailPanel,.resultTable{
+  height: 70vh;
+  border: 1px solid rgb(209, 207, 207);
+}
+
+.highlight{
+  background-color: grey;
+  color: white;
+}
+
+.sortIcon{
+  color: rgb(179, 175, 175);
+}
